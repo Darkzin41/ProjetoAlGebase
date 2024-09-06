@@ -57,4 +57,15 @@ function pesquisar() {
     let mensagemErro = document.getElementById("mensagem-erro2");
     mensagemErro.style.color = "white";
   }
+
+  // Adiciona a funcionalidade de hover para alterar a cor dos cards
+  //   let cards = document.querySelectorAll(".cards");
+  //   cards.forEach((card) => {
+  //     card.addEventListener("mouseover", function () {
+  //       this.style.backgroundColor = "#f0f0f0"; // Cor ao passar o mouse
+  //     });
+  //     card.addEventListener("mouseout", function () {
+  //       this.style.backgroundColor = ""; // Volta à cor original
+  //     });
+  //   });
 }
