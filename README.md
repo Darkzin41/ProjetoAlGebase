@@ -1,4 +1,4 @@
-## **README.md - Buscador de Basquete Brasileiro**
+## ** Basquete Brasileiro**
 
 ### **O que é esse projeto?**
 
