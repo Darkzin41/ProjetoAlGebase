@@ -13,7 +13,7 @@ body {
   height: 80vh;
   margin: 0;
   padding: 0;
-  background-image: url(./midia/luxa.org-opacity-changed-alex-perez-FYD0o4Q5lXE-unsplash.jpg);
+  background-image: url(midia/luxa.org-opacity-changed-alex-perez-FYD0o4Q5lXE-unsplash.jpg);
   /* salvei a imagem original e diminui a opacidade e baixei denovo para nao ter que mudar a estrutura do css novamente */
   background-position: center;
   background-repeat: no-repeat;
@@ -26,7 +26,7 @@ h1 {
   font-size: 60px;
   text-align: center;
   letter-spacing: 0.4rem;
-  background-image: url(./midia/pexels-murilo-fonseca-14867612-6321080.jpg);
+  background-image: url(midia/fundobasquete.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-clip: text;
